@@ -24,22 +24,24 @@ I thought back to my old iPod Nano I had back in middle school; scrolling throug
 <br />
 Wanting to recreate this more pure and nostalgic music listening experience I started researching which MP3 player would give me just that, along with a couple modern upgrades. After going down too many Youtube rabbt holes, I found out the iPod Classic 5th Generation is one of the most easily upgradeable platforms of the entire iPod lineup. While not the most recent of iPod models, the plastic faceplate allows for easy removal compared to the aluminum faceplate of the 6th and 7th generation Classics. The most common upgrades being repalcing the old HDD's with modern SSD solutions, along with installing higher capacity batteries. <br/>
 <br/>
-I purchased what is unofficially called a *5.5 Generation*, or *5th Generation Enhanced.* This was a mid-year release of the 5th Gen Classic in 2006 that featured an enhanced music chip (Wolfson DAC) and introduced the coveted Search functionality. This feature allowed users to search for songs indidividually instead of scrolling through hundreds or throusands of songs just to find the one song you want to play. <br/>
+I purchased what is unofficially called a "5.5 Generation", or "5th Generation Enhanced." This was a mid-year release of the 5th Gen Classic in 2006 that featured an enhanced music chip (Wolfson DAC) and introduced the coveted Search functionality. This feature allowed users to search for songs indidividually instead of scrolling through hundreds or throusands of songs just to find the one song you want to play. <br/>
 <br/>
 As soon as the iPod and replacement parts arrived I went to work.
 
-<h2>Screenshots:</h2>
+<h2>Process:</h2>
 
 <p align="center">
 iPod Front Before Opening: <br />
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/1)%20iPod%20Front-%20Before.jpg"/> <br/>
 <br/>
+iPod Back Before Opening:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/2)%20iPod%20Back%20-%20Before.jpg"/>
 <p align="left">
-Process skdjfskfjsdlkfjsdlfjsd <br/>
+I used the iPod for about a week to get used to it and see if I would actually enjoy using a separate device for music before undertaking this project. The iPod came in good condition with a 30GB hard drive and an aftermarket 650 mAh battery from the seller. Original battery capacity for this spec was a 400 mAh from the factory. <br/>
 <br/>
 <p align="center">
-High Risk Incident Log:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20High%20Incident%20Log.png"/>
+iPod Back Before Opening:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/2)%20iPod%20Back%20-%20Before.jpg"/>
 <br />
 <br />
 Sentinel ChatGPT Playbook on High Incident: <br/>

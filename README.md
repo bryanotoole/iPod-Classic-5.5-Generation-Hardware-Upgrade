@@ -1,21 +1,21 @@
 <h1>iPod Classic 5.5 Generation Hardware Upgrade</h1>
 
-### Description
+## Description
 - Disassembled a facotry Apple iPod Classic to upgrade older and less capable hardware. 
 - Installed a new SSD configuration, repalcing the factory HDD configuration to ensure stable performance of unit.
 - Replaced the previous battery with a higher capacity unit for increased up time.
 - Reformatted unit to accept and regognize the upgraded hardware, ensuring factory features operate with peak performance and reliability.
 
-### Skills Learned
+## Skills Learned
 
 - Hardware architecure analysis
 - Upgrading storage
 - Proper lithium ion battery replacement and disposal
 
-<h2>Objective</h2>
+## Objective
 To enhance the performance and extend the lifespan of an old iPod Classic by replacing its hard drive with a modern solid-state drive (SSD) and installing a new high capacity battery. By completing this upgrade, this old iPod Classic will have a new life making it a more reliable and efficient music player for years to come.
 
-<h2>Background</h2>
+## Background
 In 2024, its easy to get distracted by the hundreds of notifications we receive everyday across multiple devices. With many people using iPhones as an all in one device, these notifications can seem non-stop from texts, calls, emails, and news updates, to being reminded about that embarrasing teenage Facebook status from 2009.<br />
 <br />
 While streaming music from Spotify gives easy access to nearly any song imaginable, part of me has been wanting to go back to a time when listening to music was just that - a music that you owned, free from anything else. No ads. No subscriptions. No distractions.<br />
@@ -28,27 +28,37 @@ I purchased what is unofficially called a "5.5 Generation", or "5th Generation E
 <br/>
 As soon as the iPod and replacement parts arrived I went to work.
 
-<h2>Process:</h2>
+## Process
 
-<p align="center">
-iPod Front Before Opening: <br />
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/1)%20iPod%20Front-%20Before.jpg"/> <br/>
-<br/>
-iPod Back Before Opening:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/2)%20iPod%20Back%20-%20Before.jpg"/>
+### Preparation:
 <p align="left">
 I used the iPod for about a week to get used to it and see if I would actually enjoy using a separate device for music before undertaking this project. The iPod came in good condition with a 30GB hard drive and an aftermarket 650 mAh battery from the seller. Original battery capacity for this spec was a 400 mAh from the factory. <br/>
 <br/>
+Figure 1 below shows the functional iPod before disassembly. <br/>
+<br/>
+Figure 2 shows the caseback with the unavoidable scratches on the mirror-like stainless steel caseback. While this iPod is 18 years old, these casebacks often looked like this after just 1 month of normal use. <br/>
+<br/>
 <p align="center">
-iPod Back Before Opening:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/2)%20iPod%20Back%20-%20Before.jpg"/>
-<br />
-<br />
-Sentinel ChatGPT Playbook on High Incident: <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20ChatGPT%20Playbook%20on%20High%20Incident.png"/>
-<br />
-<br />
-ChatGPT Playbook Buildout:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/ChatGPT%20Playbook%20Buildout.png"/>
-<br />
-<br />
+Figure 1. iPod Front Before Opening: <br />
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/1)%20iPod%20Front-%20Before1.jpg"/> <br/>
+<br/>
+Figure 2. iPod Back Before Opening:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/2)%20iPod%20Back%20-%20Before.jpg"/>  <br/>
+<br/>
+<br/>
+  
+### Disassembly
+<p align="left">
+I used box cutter blade to pry the plastic faceplace from the stainless steel back. Once all clips were apart, I disconnected the battery cable from the motherboard to allow for the back to be completely separate from the front half of the unit. <br/>
+<br/>
+<p align="center">
+iPod Opened:<br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/3)%20iPod%20Opened%201.jpg"/> <br/>
+<br/>
+<p align="left">
+The original HDD simply folds down away from the motherboard. I removed the yellow clip holding the HDD in and set it to the side. <br/>
+<br/>
+<p align="center">
+Opened iPod With HDD Unfolded:<br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/4)%20iPod%20Opened%202.jpg"/> <br/>
+<br/>

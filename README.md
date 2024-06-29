@@ -1,4 +1,4 @@
-<h1>iPod Classic 5.5 Generation Hardware Upgrade</h1>
+<h1>iPod Classic 5.5 Generation Hardware & Software Upgrade</h1>
 
 ## Description
 - Disassembled a facotry Apple iPod Classic to upgrade older and less capable hardware. 
@@ -9,8 +9,8 @@
 ## Skills Learned
 
 - Hardware architecure analysis
-- Upgrading storage
-- Proper lithium ion battery replacement and disposal
+- Upgrading storage and battery capactiy
+- RockBox OS installation and navigation
 
 ## Objective
 To enhance the performance and extend the lifespan of an old iPod Classic by replacing its hard drive with a modern solid-state drive (SSD) and installing a new high capacity battery. By completing this upgrade, this old iPod Classic will have a new life making it a more reliable and efficient music player for years to come.
@@ -30,7 +30,7 @@ As soon as the iPod and replacement parts arrived I went to work.
 
 ## Process
 
-### Preparation:
+### Preparation
 <p align="left">
 I used the iPod for about a week to get used to it and see if I would actually enjoy using a separate device for music before undertaking this project. The iPod came in good condition with a 30GB hard drive and an aftermarket 650 mAh battery from the seller. Original battery capacity for this spec was a 400 mAh from the factory. <br/>
 <br/>
@@ -49,16 +49,103 @@ Figure 2. iPod Back Before Opening:  <br/>
   
 ### Disassembly
 <p align="left">
-I used box cutter blade to pry the plastic faceplace from the stainless steel back. Once all clips were apart, I disconnected the battery cable from the motherboard to allow for the back to be completely separate from the front half of the unit. <br/>
+I used a box cutter blade to pry the plastic faceplace from the stainless steel back. Once all clips were apart, I disconnected the battery cable from the motherboard to allow for the back to be completely separate from the front half of the unit. <br/>
 <br/>
 <p align="center">
-iPod Opened:<br/>
+Figure 3. iPod Opened:<br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/3)%20iPod%20Opened%201.jpg"/> <br/>
 <br/>
 <p align="left">
-The original HDD simply folds down away from the motherboard. I removed the yellow clip holding the HDD in and set it to the side. <br/>
+The original HDD simply folds down away from the motherboard. I removed the yellow connector ribbon holding the HDD in and set it to the side. <br/>
 <br/>
 <p align="center">
-Opened iPod With HDD Unfolded:<br/>
+Figure 4. Opened iPod With HDD Unfolded:<br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/4)%20iPod%20Opened%202.jpg"/> <br/>
 <br/>
+<p align="center">
+Figure 5. Factory Hard Drive Removed: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/5)%20Factory%20Hard%20Drive%20Removed.jpg"/> <br/>
+<br/>
+  
+### Storage Swap
+<p align="left">
+To replace the factory HDD, I purchased an iFlash Quad adapter to hold two 128GB micro SD cards. There are many different SSD adapters to choose from, but the iFlash Quad is the thinnest model offered and is widely regarded as one of the better options when pairing with a larger battery. Because my iPod is the 30GB model it has the "thin" case size. The 60GB and 80GB models came with the "thick" case sizes, as they came with larger batteries from the factory so more space had to be allowed. If I would have chosen a different iFlash adapter with my new battery, I would not have been able to fit everything into my thin case. I also could have chose to pair my iPod with a thick case back, but chose to keep with the slimmer option for reduced bulk.  <br/>
+<br/>
+<p align="center">
+Figure 6. iFlash Quad Adapter with Two 128 GB SD Cards: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/6)%20iFlash%20Quad%20Adapter%20with%20Two%20128%20GB%20SD%20Cards.jpg"/> <br/>
+<br/>
+<p align="left">
+In Figure 7, you can see how easily the new SSD setup fits into the iPod. While the iFlash Quad adapter is a bit larger and wider than the otigianl HDD, it is quite a bit thinner. Not to mention being an SSD, better reliability and durabilitty can be expected over the long rung. Not having moving parts like an HDD, SSD's boot up quicker and are have less parts to break if the iPod is ever dropped. <br/>
+<br/>
+While I'm not sure I'll ever truly need this much storage, having 256GB of storage is nice to have. And if I ever want to expand the storage further, I can simply add two more micro SD cards to the open slots on the iFlash Quad.<br/>
+<br/>
+<p align="center">
+Figure 7. iFlash Quad Installed with SD Cards: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/7)%20iFlash%20Quad%20Installed%20with%20SD%20Cards.jpg"/> <br/>
+<br/>
+
+### Battery Upgrade
+<p align="left">
+The final part of this hardware upgrade is with the battery. This 30GB thin model originally came with a 400mAh battery and the 60GB and 80GB thick case iPods came with a 600mAh and 650mAh batteries, respectively. While the aftermarket 650mAh battery should work just fine, espeically with the SSD using less power than the HDD would have, I wanted to go all out with a 2000mAh battery instead. <br/>
+<br/>
+Figure 8 shows both batteries side by side for size comparison. The wires and white box in the upper right corner of the caseback is the factory headphone jack. <br/>
+<br/>
+<p align="center">
+Figure 8. Old Battery with New Battery: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/8)%20Old%20Battery%20with%20New%20Battery.jpg"/> <br/>
+<br/>
+<p align="left">
+Figure 9 shows the new 2000mAh battery installed. You can see how much larger this is over the old battery with it taking up most of the caseback. While I don't think battery life would have been a major issue with my occasional use of this iPod, its cool knowing I knowing I now have have five times better capacity over the factory battery. <br/>
+<br/>
+<p align="center">
+Figure 9. New Battery Installed: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/9)%20New%20Battery%20Installed.jpg"/> <br/>
+<br/>
+
+### Brining It All Together
+<p align="left">
+After the new hardware was installed, I easily snapped everything back together. Now the moment of truth. I powered on the iPod and saw the following message in Figure 10 below. <br/>
+<br/>
+<p align="center">
+Figure 10. iPod Before Formating: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/10)%20iPod%20Before%20Formating.jpg"/> <br/>
+<br/>
+<p align="left">
+Success! the iPod botted up in disc mode due to the new SSD not being formatted yet. I was surprised to see the battery didn't come charged. So I had to wait a few minutes for the battery to get some juice before starting the formatting process on my Windows laptop. <br/>
+<br/>
+After formatting the iPod in iTunes, I was guided through the typical set up and eventually got to this screen in Figure 11, showing the new SSD setup is recognized and ready for content to be uploaded.<br/>
+<br/>
+<p align="center">
+Figure 11. iPod Formatted with New Storage in iTunes: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/11)%20iPod%20Formatted%20with%20New%20Storage%20in%20iTunes.PNG"/> <br/>
+<br/>
+  
+### Bonus OS
+<p align="left">
+With my iPod being from 2006, Apple has stopped supporting updates for this model for over a decade at this point. The factory software works fine for what I need it to do, but I wanted to try my hand at tinkering with one more thing: uploading RockBox. <br/>
+<br/>
+<p align="center">
+Figure 12. RockBox Default Screen: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/12)%20RockBox%20Default%20Screen.jpg"/> <br/>
+<br/>
+<p align="left">
+RockBox is an open source oeprating system that works alongside the facotry OS. Its common in the iPod modding community to upload this OS to unlock features on that include new themes, games, and various other controls. A major benefit of RockBox is the ability to add media simply by dragging files into a folder on your desktop, instead of syncing through iTunes. <br/>
+<br/>
+The interesting feature I liked most was the different themes you could choose. There are countless to choose from, but I found the iClassic theme (Figure 13) to be the most familiar since its close to the factory OS. The split view is nice to have and wasn't availble on the Classic until the later 6th Generation.<br/>
+<br/>
+<p align="center">
+Figure 13. RockBox iClassic Theme: <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/13)%20RockBox%20iClassic%20Theme.jpg"/> <br/>
+<br/>
+<p align="left">
+Another interesting theme on RockBox is the Cassette theme, shown in Figure 14.<br/>
+<br/>
+<p align="center">
+Figure 14. RockBox Cassette Theme <br/> 
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/14)%20RockBox%20Cassette%20Theme.jpg"/> <br/>
+<br/>
+
+## Conclusion
+<p align="left">
+By completing this hardware and software upgrade, this iPod Classic was given new life, making it a more reliable and efficient music player for years to come.

@@ -113,7 +113,7 @@ Figure 10. iPod Before Formatting: <br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/10)%20iPod%20Before%20Formating.jpg"/> <br/>
 <br/>
 <p align="left">
-Success! Rhe iPod booted up in disc mode due to the new SSD not being formatted yet. I was surprised to see the battery didn't come charged. So I had to wait a few minutes for the battery to get some juice before starting the formatting process on my Windows laptop. <br/>
+Success! The iPod booted up in disc mode due to the new SSD not being formatted yet. I was surprised to see the battery didn't come charged. So I had to wait a few minutes for the battery to get some juice before starting the formatting process on my Windows laptop. <br/>
 <br/>
 After formatting the iPod in iTunes, I was guided through the typical setup and eventually got to this screen in Figure 11, showing the new SSD setup is recognized and ready for content to be uploaded.<br/>
 <br/>
